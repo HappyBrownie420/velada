@@ -1,0 +1,17 @@
+{
+  "name": "Velada · Diario",
+  "short_name": "Velada",
+  "description": "Diario personal nocturno: tres preguntas de introspección cada noche, calendario de logros y cifrado local.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "es",
+  "background_color": "#312E81",
+  "theme_color": "#1E1B4B",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
